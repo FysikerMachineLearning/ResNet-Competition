@@ -5,7 +5,7 @@ The ResNet Competition was proposed by Max Karlström (`maxterk`).
 * Goal: Best accuracy
 * Dataset: MNIST
 * Architectures: MLP, [ResNet](https://arxiv.org/abs/1512.03385)
-* Constraints: Maximum of 1000 parameters
+* Constraints: Maximum of 10000 parameters
 * Theory: Understand why DenseNet is the next logical step after ResNet
 * Format: Jupyter Notebook
 
