@@ -1,0 +1,6 @@
+name: ResNet-Competition
+dependencies:
+  - python=3.6
+  - tensorflow=1.11
+  - numpy=1.15
+  - notebook=5.7
