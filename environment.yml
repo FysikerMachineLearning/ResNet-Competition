@@ -2,5 +2,7 @@ name: ResNet-Competition
 dependencies:
   - python=3.6
   - tensorflow=1.11
+  - keras=2.2.4
   - numpy=1.15
+  - matplotlib=3.0
   - notebook=5.7
