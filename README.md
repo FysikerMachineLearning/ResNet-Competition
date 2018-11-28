@@ -28,5 +28,10 @@ This is equivalent of using the conda environment specified by `enviroment.yml`.
 ## Results
 | username      | accuracy |
 | ------------- | ------------- |
-|               |               |
+| alsterman     | 95.95 %  (ResNet) |
+| Maxterk       | 95.60 %  (DenNet) |
+| Viktor2k      | 95.26 %  (ResNet) |
+| parmezzan     | 94.73 %  (ResNet) |
+| LucasGronlund | 94.48 %  (ResNet) |
+| erosvall      | 91.97 %  (ResNet) |
 
