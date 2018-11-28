@@ -26,8 +26,11 @@ The code should use
 This is equivalent of using the conda environment specified by `enviroment.yml`.
 
 ## Results
+Combined brainstormed model yeilded an accuracy of 96.44 %.
+
 | username      | accuracy |
 | ------------- | ------------- |
+| **together**  | 96.44 %  (ResNet) |
 | alsterman     | 95.95 %  (ResNet) |
 | Maxterk       | 95.60 %  (DenNet) |
 | Viktor2k      | 95.26 %  (ResNet) |
